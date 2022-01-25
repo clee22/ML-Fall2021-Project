@@ -1,4 +1,4 @@
-# ML-Fall2021-Project-
+# ML-Fall2021-Project
 This is the end of semester project for the machine learning course i took in the Fall 2021 semester. 
 
 
@@ -13,5 +13,7 @@ complete work from other classes. For the regression models I chose to use Linea
 Regresion, and Polynomial Regression.
 
 credit card fraud dataset:
-
+https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
 energy efficiency dataset:
+https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficiency
+
