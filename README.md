@@ -26,9 +26,9 @@ libraries used:
 - keras
 
 credit card fraud dataset: <br>
-https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv \n
-energy efficiency dataset: \n
-https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficiency \n
-imbalanced-learn \n
+https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv <br>
+energy efficiency dataset: <br>
+https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficiency <br>
+imbalanced-learn <br>
 https://imbalanced-learn.org/stable/index.html
 
