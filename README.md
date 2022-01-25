@@ -10,10 +10,16 @@ For the classification models I chose a support vector machine, randomforest, an
 which due to the fact the assignment was disclosed during the beginning of Nobember, meant I would not have
 much time to work on the other regression models given the fact this project existed while i needed to
 complete work from other classes. For the regression models I chose to use Linear Regression, Ridge 
-Regresion, and Polynomial Regression.
+Regresion, and Polynomial Regression. The objective was to what knowledge we have accumulated as well as 
+pose a challenge as the credit card fraud data set is insanely unbalanced with less than 1% being true 
+positive frauds and then the energy efficiency data set is hardly diverse and thus variety very low leading
+to a need for data set rebalancing and regularization. Any results found in the span of a month and a half 
+of work are printed out as pdf both in raw results and analysis of said results
 
 credit card fraud dataset:
 https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
 energy efficiency dataset:
 https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficiency
+imbalanced-learn
+https://imbalanced-learn.org/stable/index.html
 
