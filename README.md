@@ -16,6 +16,15 @@ positive frauds and then the energy efficiency data set is hardly diverse and th
 to a need for data set rebalancing and regularization. Any results found in the span of a month and a half 
 of work are printed out as pdf both in raw results and analysis of said results
 
+libraries used:
+- numpy
+- sklearn
+- imblearn
+- matplt
+- seaborn
+- pandas
+- keras
+
 credit card fraud dataset:
 https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv
 energy efficiency dataset:
