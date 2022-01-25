@@ -25,7 +25,7 @@ libraries used:
 - pandas
 - keras
 
-credit card fraud dataset: \n
+credit card fraud dataset: <br>
 https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv \n
 energy efficiency dataset: \n
 https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficiency \n
